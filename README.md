@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hello, World
 
-<!--
-**shailedrathakur300/shailedrathakur300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Shalendra Thakur, a Frontend Engineer from India, also dabbling a bit in Typescript, Rust, Python, and Machine Learning. I'm the Contant creator . Believing in long-term, I am passionate about open source and enjoy experimenting with new ideas. :
 
-Here are some ideas to get you started:
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</td>
+<td valign="top" width="50%">
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript        53 hrs 55 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.78 %
+Python            13 hrs 50 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.31 %
+Rust              8 hrs 19 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.61 %
+Dart              4 hrs 37 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.78 %
+Markdown          2 hrs 7 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.18 %
+```
+
+<!--END_SECTION:waka-->
+
+</td>
+<td valign="top" width="50%">
+
+
+</td>
+</tr>
+
+</table>
