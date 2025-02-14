@@ -17,7 +17,6 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!--START_SECTION:waka-->
 
