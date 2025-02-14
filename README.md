@@ -1,4 +1,4 @@
-## Hello, World
+## Full Stack Developer || Design & Development
 
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Shalendra Thakur, a Frontend Engineer from India, also dabbling a bit in Typescript, Rust, Python, and Machine Learning. I'm the Contant creator . Believing in long-term, I am passionate about open source and enjoy experimenting with new ideas. :
 
